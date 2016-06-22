@@ -22,6 +22,7 @@ config/secrets.yml
 
 ## Environment normalization:
 /.bundle
+.idea
 /vendor/bundle
 
 # these should all be checked in to normalize the environment:
